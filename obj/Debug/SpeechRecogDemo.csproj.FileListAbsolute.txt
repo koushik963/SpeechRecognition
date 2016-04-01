@@ -1,0 +1,9 @@
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\bin\Debug\SpeechRecogDemo.exe.config
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.csprojResolveAssemblyReference.cache
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.Form1.resources
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.Properties.Resources.resources
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.csproj.GenerateResource.Cache
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\bin\Debug\SpeechRecogDemo.exe
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\bin\Debug\SpeechRecogDemo.pdb
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.exe
+c:\users\koushik\documents\visual studio 2012\Projects\SpeechRecogDemo\SpeechRecogDemo\obj\Debug\SpeechRecogDemo.pdb
